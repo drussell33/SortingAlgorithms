@@ -1,0 +1,7 @@
+InsertionSort - Vector, 10000 ,1734
+BubbleSort - Vector,10000 ,10688
+BubbleSortImproved - Vector,10000,6765
+HeapSort - Vector,10000 ,16
+SelectionSort - Vector,10000 ,3437
+ShellSort - Vector,10000 ,16
+MergeSort - Vector,10000 ,16
