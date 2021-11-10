@@ -1,0 +1,1 @@
+Project for creating all major sorting algorithms in C++ so that the time required for each algorithm could be output and compared for a better understanding of Big O and efficency.
